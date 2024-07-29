@@ -14,14 +14,23 @@
 1. [flutter-cod3r-calculator](https://github.com/richardborgesdev/flutter-cod3r-calculator)
 1. [flutter-cod3r-dart-fundamentals](https://github.com/richardborgesdev/flutter-cod3r-dart-fundamentals)
 
-## References
-### Persons
+## Persons
 1. [Flutterando TV - Jacob Moura](https://www.youtube.com/@FlutterandoTV)
 1. [BackFront Academy - Felipe Miranda](https://www.youtube.com/@BackFrontAcademy)
 
-### Technology
-1. [Flutter](https://www.youtube.com/@flutterdev)
-1. [Android Developers](https://www.youtube.com/@AndroidDevelopers)
-1. [Apple Developer](https://www.youtube.com/@AppleDeveloper)
-1. [Kotlin by JetBrains](https://youtube.com/@kotlin)
-1. [React Native](https://reactnative.dev/)
+## Technology
+### Flutter
+1. https://www.youtube.com/@flutterdev
+1. https://docs.flutter.dev/
+
+### Android
+1. https://www.youtube.com/@AndroidDevelopers
+
+### Apple
+1. https://www.youtube.com/@AppleDeveloper
+
+### Kotlin
+1. https://youtube.com/@kotlin
+
+### React Native
+1. https://reactnative.dev/
