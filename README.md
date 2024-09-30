@@ -17,6 +17,8 @@
 ## Persons
 1. [Flutterando TV - Jacob Moura](https://www.youtube.com/@FlutterandoTV)
 1. [BackFront Academy - Felipe Miranda](https://www.youtube.com/@BackFrontAcademy)
+1. [Prof. Diego Antunes](https://www.youtube.com/@drantunes)
+1. [Renato Mota](https://www.youtube.com/@RenatoMotaDev)
 
 ## Technology
 ### Flutter
